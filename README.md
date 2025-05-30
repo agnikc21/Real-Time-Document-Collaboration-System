@@ -112,7 +112,5 @@ The application will be available at `http://localhost:3000`
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-![Screenshot](./images/screenshot.png)
-![Screenshot](./images/screenshot.png)
-![Screenshot](./images/screenshot.png)
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://github.com/agnikc21/Real-Time-Document-Collaboration-System/blob/main/images/Screenshot%202025-03-28%20195207.png)
+![Screenshot](https://github.com/agnikc21/Real-Time-Document-Collaboration-System/blob/main/images/Screenshot%202025-03-28%20195122.png)
